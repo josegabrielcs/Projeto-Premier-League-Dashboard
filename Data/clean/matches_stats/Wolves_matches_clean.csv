@@ -1,0 +1,39 @@
+Date,Time,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Opp Formation,Referee
+2025-08-16,17:30,1,Sat,Home,L,0,4,Manchester City,42,31456,Toti Gomes,3-4-3,4-3-3,Jarred Gillett
+2025-08-23,15:00,2,Sat,Away,L,0,1,Bournemouth,41,11070,Toti Gomes,3-4-3,4-1-4-1,Thomas Bramall
+2025-08-30,15:00,3,Sat,Home,L,2,3,Everton,59,30271,Toti Gomes,3-4-3,4-2-3-1,Michael Oliver
+2025-09-13,15:00,4,Sat,Away,L,0,1,Newcastle,43,52145,Toti Gomes,3-5-2,4-3-3,Chris Kavanagh
+2025-09-20,15:00,5,Sat,Home,L,1,3,Leeds United,56,30807,Toti Gomes,3-4-3,4-3-3,Anthony Taylor
+2025-09-27,20:00,6,Sat,Away,D,1,1,Tottenham,49,60537,Matt Doherty,4-2-3-1,4-2-3-1,Michael Salisbury
+2025-10-05,14:00,7,Sun,Home,D,1,1,Brighton,42,29504,João Gomes,4-3-3,4-2-3-1,Jarred Gillett
+2025-10-18,15:00,8,Sat,Away,L,0,2,Sunderland,59,46578,Matt Doherty,4-3-3,4-2-3-1,Robert Jones
+2025-10-26,14:00,9,Sun,Home,L,2,3,Burnley,57,29116,Jørgen Strand Larsen,4-3-3,4-2-3-1,Tony Harrington
+2025-11-01,15:00,10,Sat,Away,L,0,3,Fulham,36,26413,Toti Gomes,5-3-2,4-2-3-1,John Brooks
+2025-11-08,20:00,11,Sat,Away,L,0,3,Chelsea,36,39467,Toti Gomes,5-3-2,4-2-3-1,Andrew Kitchen
+2025-11-22,15:00,12,Sat,Home,L,0,2,Crystal Palace,48,29976,Toti Gomes,5-3-2,3-4-3,Anthony Taylor
+2025-11-30,14:05,13,Sun,Away,L,0,1,Aston Villa,48,42139,Toti Gomes,3-4-3,4-2-3-1,Chris Kavanagh
+2025-12-03,19:30,14,Wed,Home,L,0,1,Nottingham,50,28646,Toti Gomes,3-4-3,4-2-3-1,Tim Robinson
+2025-12-08,20:00,15,Mon,Home,L,1,4,Manchester Utd,36,30338,Toti Gomes,3-4-3,3-4-3,Michael Salisbury
+2025-12-13,20:00,16,Sat,Away,L,1,2,Arsenal,31,60242,Toti Gomes,3-5-2,4-3-3,Robert Jones
+2025-12-20,15:00,17,Sat,Home,L,0,2,Brentford,44,27662,Matt Doherty,3-5-2,4-3-3,Matt Donohue
+2025-12-27,15:00,18,Sat,Away,L,1,2,Liverpool,34,60466,Matt Doherty,3-4-3,4-2-3-1,Simon Hooper
+2025-12-30,20:15,19,Tue,Away,D,1,1,Manchester Utd,43,73589,Matt Doherty,3-5-2,4-2-3-1,Thomas Bramall
+2026-01-03,15:00,20,Sat,Home,W,3,0,West Ham,33,29874,José Sá,3-5-2,4-2-3-1,Peter Bankes
+2026-01-07,19:30,21,Wed,Away,D,1,1,Everton,55,51768,José Sá,3-5-2,4-3-3,Thomas Kirk
+2026-01-18,14:00,22,Sun,Home,D,0,0,Newcastle,34,29751,José Sá,3-5-2,4-3-3,Samuel Barrott
+2026-01-24,15:00,23,Sat,Away,L,0,2,Manchester City,36,52469,José Sá,3-5-2,4-1-4-1,Farai Hallam
+2026-01-31,15:00,24,Sat,Home,L,0,2,Bournemouth,52,30161,José Sá,3-5-2,4-2-3-1,Michael Oliver
+2026-02-07,15:00,25,Sat,Home,L,1,3,Chelsea,33,29762,Matt Doherty,4-2-3-1,4-2-3-1,Jarred Gillett
+2026-02-11,19:30,26,Wed,Away,D,0,0,Nottingham,37,29921,José Sá,3-4-1-2,4-2-3-1,Tim Robinson
+2026-02-22,14:00,27,Sun,Away,L,0,1,Crystal Palace,39,24547,José Sá,3-4-3,3-4-3,Thomas Kirk
+2026-02-27,20:00,28,Fri,Home,W,2,0,Aston Villa,39,30197,José Sá,3-4-3,4-2-3-1,Craig Pawson
+2026-03-03,20:15,29,Tue,Home,W,2,1,Liverpool,34,30247,José Sá,3-5-1-1,4-2-3-1,Thomas Bramall
+2026-03-16,20:00,30,Mon,Away,D,2,2,Brentford,51,17155,José Sá,3-4-3,4-1-4-1,Stuart Attwell
+2026-02-18,20:00,31,Wed,Home,D,2,2,Arsenal,42,29843,José Sá,3-4-3,4-2-3-1,Paul Tierney
+2026-04-10,20:00,32,Fri,Away,L,0,4,West Ham,56,62457,José Sá,3-5-1-1,4-4-1-1,Jarred Gillett
+2026-04-18,15:00,33,Sat,Away,L,0,3,Leeds United,44,36840,Toti Gomes,3-4-3,3-4-3,Farai Hallam
+2026-04-25,15:00,34,Sat,Home,L,0,1,Tottenham,41,31253,Matt Doherty,3-4-3,4-2-3-1,Anthony Taylor
+2026-05-02,15:00,35,Sat,Home,D,1,1,Sunderland,58,29632,Toti Gomes,3-4-3,4-2-3-1,Paul Tierney
+2026-05-09,15:00,36,Sat,Away,L,0,3,Brighton,28,31587,Toti Gomes,3-4-3,4-2-3-1,John Brooks
+2026-05-17,15:00,37,Sun,Home,D,1,1,Fulham,31,28709,José Sá,4-2-3-1,4-2-3-1,Thomas Kirk
+2026-05-24,16:00,38,Sun,Away,D,1,1,Burnley,30,21057,José Sá,3-4-3,4-2-3-1,Andrew Kitchen

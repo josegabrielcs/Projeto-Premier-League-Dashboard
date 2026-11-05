@@ -1,0 +1,39 @@
+Date,Time,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Opp Formation,Referee
+2025-08-16,15:00,1,Sat,Away,L,0,3,Sunderland,63,46233,Jarrod Bowen,3-4-1-2,4-3-3,Robert Jones
+2025-08-22,20:00,2,Fri,Home,L,1,5,Chelsea,40,62462,Jarrod Bowen,3-4-1-2,4-2-3-1,Michael Oliver
+2025-08-31,14:00,3,Sun,Away,W,3,0,Nottingham,42,30215,Jarrod Bowen,4-2-3-1,4-2-3-1,Craig Pawson
+2025-09-13,17:30,4,Sat,Home,L,0,3,Tottenham,36,62459,Jarrod Bowen,4-2-3-1,4-3-3,Jarred Gillett
+2025-09-20,15:00,5,Sat,Home,L,1,2,Crystal Palace,57,62455,Jarrod Bowen,4-2-3-1,3-4-3,Tony Harrington
+2025-09-29,20:00,6,Mon,Away,D,1,1,Everton,49,51890,Jarrod Bowen,4-1-4-1,4-2-3-1,Samuel Barrott
+2025-10-04,15:00,7,Sat,Away,L,0,2,Arsenal,32,60181,Jarrod Bowen,4-1-4-1,4-3-3,John Brooks
+2025-10-20,20:00,8,Mon,Home,L,0,2,Brentford,43,62452,Jarrod Bowen,4-2-3-1,4-2-3-1,Andy Madley
+2025-10-24,20:00,9,Fri,Away,L,1,2,Leeds United,59,36788,Jarrod Bowen,3-4-3,4-3-3,Stuart Attwell
+2025-11-02,14:00,10,Sun,Home,W,3,1,Newcastle,38,62441,Jarrod Bowen,4-3-3,4-3-3,Robert Jones
+2025-11-08,15:00,11,Sat,Home,W,3,2,Burnley,43,62449,Jarrod Bowen,4-3-3,4-2-3-1,Michael Salisbury
+2025-11-22,15:00,12,Sat,Away,D,2,2,Bournemouth,24,11216,Jarrod Bowen,3-4-3,4-2-3-1,Thomas Bramall
+2025-11-30,14:05,13,Sun,Home,L,0,2,Liverpool,44,62469,Jarrod Bowen,4-2-3-1,4-2-3-1,Darren England
+2025-12-04,20:00,14,Thu,Away,D,1,1,Manchester Utd,35,73938,Jarrod Bowen,4-2-3-1,3-4-3,Andrew Kitchen
+2025-12-07,14:00,15,Sun,Away,D,1,1,Brighton,32,31293,Jarrod Bowen,3-4-1-2,4-2-3-1,Simon Hooper
+2025-12-14,14:00,16,Sun,Home,L,2,3,Aston Villa,41,62447,Jarrod Bowen,4-3-1-2,4-2-3-1,Anthony Taylor
+2025-12-20,15:00,17,Sat,Away,L,0,3,Manchester City,34,52454,Jarrod Bowen,4-3-1-2,4-3-2-1,Paul Tierney
+2025-12-27,15:00,18,Sat,Home,L,0,1,Fulham,44,62464,Jarrod Bowen,4-3-2-1,4-2-3-1,Chris Kavanagh
+2025-12-30,19:30,19,Tue,Home,D,2,2,Brighton,39,62464,Jarrod Bowen,4-2-3-1,4-2-3-1,Michael Salisbury
+2026-01-03,15:00,20,Sat,Away,L,0,3,Wolves,68,29874,Jarrod Bowen,4-2-3-1,3-5-2,Peter Bankes
+2026-01-06,20:00,21,Tue,Home,L,1,2,Nottingham,47,62429,Jarrod Bowen,4-2-3-1,4-2-3-1,Tony Harrington
+2026-01-17,15:00,22,Sat,Away,W,2,1,Tottenham,38,60857,Jarrod Bowen,4-4-1-1,4-2-3-1,Jarred Gillett
+2026-01-24,12:30,23,Sat,Home,W,3,1,Sunderland,47,62456,Jarrod Bowen,4-4-1-1,4-4-2,Thomas Bramall
+2026-01-31,17:30,24,Sat,Away,L,2,3,Chelsea,30,39361,Jarrod Bowen,4-4-1-1,4-1-4-1,Anthony Taylor
+2026-02-07,15:00,25,Sat,Away,W,2,0,Burnley,47,21273,Jarrod Bowen,4-4-1-1,4-5-1,Darren England
+2026-02-10,20:15,26,Tue,Home,D,1,1,Manchester Utd,35,62473,Jarrod Bowen,4-2-3-1,4-2-3-1,Simon Hooper
+2026-02-21,17:30,27,Sat,Home,D,0,0,Bournemouth,42,62437,Jarrod Bowen,4-2-3-1,4-2-3-1,Samuel Barrott
+2026-02-28,15:00,28,Sat,Away,L,2,5,Liverpool,51,60425,Jarrod Bowen,4-5-1,4-2-3-1,Tim Robinson
+2026-03-04,19:30,29,Wed,Away,W,1,0,Fulham,40,27191,Jarrod Bowen,4-4-2,4-2-3-1,Matt Donohue
+2026-03-14,20:00,30,Sat,Home,D,1,1,Manchester City,29,62459,Jarrod Bowen,3-4-3,4-1-3-2,Michael Oliver
+2026-03-22,14:15,31,Sun,Away,L,0,2,Aston Villa,41,42130,Jarrod Bowen,4-3-3,4-2-3-1,Paul Tierney
+2026-04-10,20:00,32,Fri,Home,W,4,0,Wolves,44,62457,Jarrod Bowen,4-4-1-1,3-5-1-1,Jarred Gillett
+2026-04-20,20:00,33,Mon,Away,D,0,0,Crystal Palace,46,24974,Jarrod Bowen,4-4-1-1,3-4-3,Darren England
+2026-04-25,15:00,34,Sat,Home,W,2,1,Everton,44,62454,Jarrod Bowen,4-4-1-1,4-2-3-1,Stuart Attwell
+2026-05-02,15:00,35,Sat,Away,L,0,3,Brentford,52,17194,Jarrod Bowen,4-4-1-1,4-2-3-1,Craig Pawson
+2026-05-10,16:30,36,Sun,Home,L,0,1,Arsenal,36,60429,Jarrod Bowen,3-4-3,4-2-3-1,Chris Kavanagh
+2026-05-17,17:30,37,Sun,Away,L,1,3,Newcastle,45,52206,Jarrod Bowen,3-4-3,4-2-3-1,Jarred Gillett
+2026-05-24,16:00,38,Sun,Home,W,3,0,Leeds United,42,62471,Jarrod Bowen,4-2-3-1,3-5-2,Anthony Taylor

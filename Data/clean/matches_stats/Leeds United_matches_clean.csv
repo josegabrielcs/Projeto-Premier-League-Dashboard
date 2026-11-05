@@ -1,0 +1,39 @@
+Date,Time,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Opp Formation,Referee
+2025-08-18,20:00,1,Mon,Home,W,1,0,Everton,54,36820,Ethan Ampadu,4-3-3,4-2-3-1,Chris Kavanagh
+2025-08-23,17:30,2,Sat,Away,L,0,5,Arsenal,32,60110,Pascal Struijk,4-3-3,4-3-3,Jarred Gillett
+2025-08-30,17:30,3,Sat,Home,D,0,0,Newcastle,43,36727,Pascal Struijk,4-3-3,5-3-2,Peter Bankes
+2025-09-13,15:00,4,Sat,Away,L,0,1,Fulham,46,27327,Ethan Ampadu,4-3-3,4-2-3-1,Craig Pawson
+2025-09-20,15:00,5,Sat,Away,W,3,1,Wolves,44,30807,Ethan Ampadu,4-3-3,3-4-3,Anthony Taylor
+2025-09-27,15:00,6,Sat,Home,D,2,2,Bournemouth,41,36574,Ethan Ampadu,4-3-3,4-2-3-1,Michael Oliver
+2025-10-04,12:30,7,Sat,Home,L,1,2,Tottenham,57,36703,Ethan Ampadu,4-3-3,4-2-3-1,Thomas Bramall
+2025-10-18,15:00,8,Sat,Away,L,0,2,Burnley,69,21646,Ethan Ampadu,4-3-3,4-2-3-1,Tim Robinson
+2025-10-24,20:00,9,Fri,Home,W,2,1,West Ham,41,36788,Ethan Ampadu,4-3-3,3-4-3,Stuart Attwell
+2025-11-01,15:00,10,Sat,Away,L,0,3,Brighton,50,31512,Ethan Ampadu,4-1-4-1,4-2-3-1,Michael Oliver
+2025-11-09,14:00,11,Sun,Away,L,1,3,Nottingham,54,30708,Ethan Ampadu,4-3-3,4-2-3-1,Jarred Gillett
+2025-11-23,14:00,12,Sun,Home,L,1,2,Aston Villa,47,36819,Ethan Ampadu,4-3-3,4-4-2,Robert Jones
+2025-11-29,15:00,13,Sat,Away,L,2,3,Manchester City,38,52483,Ethan Ampadu,4-3-3,4-3-2-1,Peter Bankes
+2025-12-03,20:15,14,Wed,Home,W,3,1,Chelsea,29,36767,Ethan Ampadu,3-5-2,4-2-3-1,Darren England
+2025-12-06,17:30,15,Sat,Home,D,3,3,Liverpool,45,36842,Ethan Ampadu,3-5-2,4-2-3-1,Anthony Taylor
+2025-12-14,16:30,16,Sun,Away,D,1,1,Brentford,43,17159,Ethan Ampadu,3-5-2,4-2-3-1,John Brooks
+2025-12-20,20:00,17,Sat,Home,W,4,1,Crystal Palace,53,36334,Ethan Ampadu,3-5-2,3-4-3,Thomas Bramall
+2025-12-28,14:00,18,Sun,Away,D,1,1,Sunderland,57,46675,Ethan Ampadu,3-5-2,4-2-3-1,Tony Harrington
+2026-01-01,17:30,19,Thu,Away,D,0,0,Liverpool,31,60343,Ethan Ampadu,3-5-2,4-2-3-1,Chris Kavanagh
+2026-01-04,12:30,20,Sun,Home,D,1,1,Manchester Utd,45,36909,Pascal Struijk,3-5-2,3-4-3,Jarred Gillett
+2026-01-07,20:15,21,Wed,Away,L,3,4,Newcastle,37,51176,Ethan Ampadu,3-1-4-2,4-3-3,Michael Salisbury
+2026-01-17,15:00,22,Sat,Home,W,1,0,Fulham,47,36300,Ethan Ampadu,3-5-2,4-2-3-1,Chris Kavanagh
+2026-01-26,20:00,23,Mon,Away,D,1,1,Everton,42,51979,Ethan Ampadu,3-4-3,4-2-3-1,Simon Hooper
+2026-01-31,15:00,24,Sat,Home,L,0,4,Arsenal,49,36858,Ethan Ampadu,3-4-3,4-2-3-1,Stuart Attwell
+2026-02-06,20:00,25,Fri,Home,W,3,1,Nottingham,56,36835,Ethan Ampadu,3-4-3,4-2-3-1,Peter Bankes
+2026-02-10,19:30,26,Tue,Away,D,2,2,Chelsea,34,39253,Ethan Ampadu,5-4-1,4-2-3-1,Robert Jones
+2026-02-21,15:00,27,Sat,Away,D,1,1,Aston Villa,33,43048,Ethan Ampadu,5-4-1,4-2-3-1,Michael Oliver
+2026-02-28,17:30,28,Sat,Home,L,0,1,Manchester City,33,36838,Ethan Ampadu,5-4-1,4-1-3-2,Peter Bankes
+2026-03-03,19:30,29,Tue,Home,L,0,1,Sunderland,70,36713,Ethan Ampadu,4-5-1,4-2-3-1,Stuart Attwell
+2026-03-15,14:00,30,Sun,Away,D,0,0,Crystal Palace,34,25155,Ethan Ampadu,3-4-1-2,3-4-3,Thomas Bramall
+2026-03-21,20:00,31,Sat,Home,D,0,0,Brentford,57,36386,Ethan Ampadu,3-4-1-2,5-3-2,Jarred Gillett
+2026-04-13,20:00,32,Mon,Away,W,2,1,Manchester Utd,48,73989,Ethan Ampadu,3-4-3,4-2-3-1,Paul Tierney
+2026-04-18,15:00,33,Sat,Home,W,3,0,Wolves,56,36840,Ethan Ampadu,3-4-3,3-4-3,Farai Hallam
+2026-04-22,20:00,34,Wed,Away,D,2,2,Bournemouth,40,11226,Ethan Ampadu,3-4-3,4-2-3-1,Michael Salisbury
+2026-05-01,20:00,35,Fri,Home,W,3,1,Burnley,48,36265,Ethan Ampadu,3-5-2,5-4-1,Thomas Bramall
+2026-05-11,20:00,36,Mon,Away,D,1,1,Tottenham,43,61048,Ethan Ampadu,3-5-2,4-2-3-1,Jarred Gillett
+2026-05-17,15:00,37,Sun,Home,W,1,0,Brighton,34,36880,Ethan Ampadu,3-5-2,4-2-3-1,Michael Oliver
+2026-05-24,16:00,38,Sun,Away,L,0,3,West Ham,58,62471,Ethan Ampadu,3-5-2,4-2-3-1,Anthony Taylor

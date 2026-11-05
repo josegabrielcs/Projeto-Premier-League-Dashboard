@@ -1,0 +1,39 @@
+Date,Time,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Opp Formation,Referee
+2025-08-16,15:00,1,Sat,Home,D,1,1,Fulham,50,31478,Lewis Dunk,4-2-3-1,4-2-3-1,Samuel Barrott
+2025-08-24,14:00,2,Sun,Away,L,0,2,Everton,57,51759,Lewis Dunk,4-2-3-1,4-2-3-1,Stuart Attwell
+2025-08-31,14:00,3,Sun,Home,W,2,1,Manchester City,37,31485,Lewis Dunk,4-2-3-1,4-3-3,Darren England
+2025-09-13,15:00,4,Sat,Away,L,1,2,Bournemouth,48,11167,Lewis Dunk,4-2-3-1,4-2-3-1,Peter Bankes
+2025-09-20,15:00,5,Sat,Home,D,2,2,Tottenham,36,31488,Lewis Dunk,4-2-3-1,4-3-3,Chris Kavanagh
+2025-09-27,15:00,6,Sat,Away,W,3,1,Chelsea,41,39597,Lewis Dunk,4-2-3-1,4-3-3,Simon Hooper
+2025-10-05,14:00,7,Sun,Away,D,1,1,Wolves,58,29504,Lewis Dunk,4-2-3-1,4-3-3,Jarred Gillett
+2025-10-18,15:00,8,Sat,Home,W,2,1,Newcastle,46,31620,Lewis Dunk,4-2-3-1,4-3-3,Craig Pawson
+2025-10-25,17:30,9,Sat,Away,L,2,4,Manchester Utd,57,74124,Lewis Dunk,4-2-3-1,3-4-3,Anthony Taylor
+2025-11-01,15:00,10,Sat,Home,W,3,0,Leeds United,50,31512,Lewis Dunk,4-2-3-1,4-1-4-1,Michael Oliver
+2025-11-09,14:00,11,Sun,Away,D,0,0,Crystal Palace,58,24326,Lewis Dunk,4-2-3-1,3-4-3,Tim Robinson
+2025-11-22,15:00,12,Sat,Home,W,2,1,Brentford,64,31458,Danny Welbeck,4-2-3-1,4-2-3-1,Chris Kavanagh
+2025-11-30,14:05,13,Sun,Away,W,2,0,Nottingham,48,30522,Lewis Dunk,4-2-3-1,4-2-3-1,Michael Oliver
+2025-12-03,19:30,14,Wed,Home,L,3,4,Aston Villa,56,31247,Lewis Dunk,4-2-3-1,4-2-3-1,Andy Madley
+2025-12-07,14:00,15,Sun,Home,D,1,1,West Ham,68,31293,Lewis Dunk,4-2-3-1,3-4-1-2,Simon Hooper
+2025-12-13,15:00,16,Sat,Away,L,0,2,Liverpool,50,60429,Lewis Dunk,4-2-3-1,4-2-3-1,Craig Pawson
+2025-12-20,15:00,17,Sat,Home,D,0,0,Sunderland,56,31426,Georginio Rutter,4-2-3-1,4-2-3-1,Darren England
+2025-12-27,15:00,18,Sat,Away,L,1,2,Arsenal,47,60209,Lewis Dunk,3-4-3,4-3-3,John Brooks
+2025-12-30,19:30,19,Tue,Away,D,2,2,West Ham,61,62464,Lewis Dunk,4-2-3-1,4-2-3-1,Michael Salisbury
+2026-01-03,15:00,20,Sat,Home,W,2,0,Burnley,60,31373,Lewis Dunk,4-2-3-1,5-4-1,Tim Robinson
+2026-01-07,19:30,21,Wed,Away,D,1,1,Manchester City,40,51728,Lewis Dunk,4-2-3-1,4-1-4-1,Thomas Bramall
+2026-01-19,20:00,22,Mon,Home,D,1,1,Bournemouth,66,30172,Lewis Dunk,4-2-3-1,4-2-3-1,Paul Tierney
+2026-01-24,15:00,23,Sat,Away,L,1,2,Fulham,50,27239,Lewis Dunk,4-3-3,4-2-3-1,Michael Oliver
+2026-01-31,15:00,24,Sat,Home,D,1,1,Everton,54,31419,Lewis Dunk,4-3-3,4-2-3-1,Chris Kavanagh
+2026-02-08,14:00,25,Sun,Home,L,0,1,Crystal Palace,63,31179,Lewis Dunk,4-2-3-1,3-4-3,Thomas Bramall
+2026-02-11,19:30,26,Wed,Away,L,0,1,Aston Villa,50,39495,Lewis Dunk,4-3-3,4-2-3-1,Peter Bankes
+2026-02-21,15:00,27,Sat,Away,W,2,0,Brentford,48,17163,Lewis Dunk,4-3-3,4-2-3-1,Jarred Gillett
+2026-03-01,14:00,28,Sun,Home,W,2,1,Nottingham,53,31427,Lewis Dunk,4-2-3-1,4-2-3-1,Andy Madley
+2026-03-04,19:30,29,Wed,Home,L,0,1,Arsenal,60,31575,Pascal Groß,4-2-3-1,4-2-3-1,Chris Kavanagh
+2026-03-14,15:00,30,Sat,Away,W,1,0,Sunderland,53,45497,Lewis Dunk,4-2-3-1,4-1-4-1,Thomas Kirk
+2026-03-21,12:45,31,Sat,Home,W,2,1,Liverpool,47,31680,Lewis Dunk,4-2-3-1,4-4-2,Darren England
+2026-04-11,15:00,32,Sat,Away,W,2,0,Burnley,50,20408,Danny Welbeck,4-2-3-1,4-2-3-1,Thomas Bramall
+2026-04-18,17:30,33,Sat,Away,D,2,2,Tottenham,58,61167,Danny Welbeck,4-2-3-1,4-3-3,Stuart Attwell
+2026-04-21,20:00,34,Tue,Home,W,3,0,Chelsea,54,31220,Pascal Groß,4-2-3-1,4-4-1-1,Craig Pawson
+2026-05-02,15:00,35,Sat,Away,L,1,3,Newcastle,67,52099,Danny Welbeck,4-2-3-1,4-2-3-1,Chris Kavanagh
+2026-05-09,15:00,36,Sat,Home,W,3,0,Wolves,72,31587,Lewis Dunk,4-2-3-1,3-4-3,John Brooks
+2026-05-17,15:00,37,Sun,Away,L,0,1,Leeds United,66,36880,Lewis Dunk,4-2-3-1,3-5-2,Michael Oliver
+2026-05-24,16:00,38,Sun,Home,L,0,3,Manchester Utd,51,31729,Lewis Dunk,4-2-3-1,4-2-3-1,Samuel Barrott

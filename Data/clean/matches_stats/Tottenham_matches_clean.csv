@@ -1,0 +1,39 @@
+Date,Time,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Opp Formation,Referee
+2025-08-16,15:00,1,Sat,Home,W,3,0,Burnley,68,61077,Cristian Romero,4-3-3,5-4-1,Michael Oliver
+2025-08-23,12:30,2,Sat,Away,W,2,0,Manchester City,39,51785,Cristian Romero,4-3-3,4-1-4-1,Peter Bankes
+2025-08-30,15:00,3,Sat,Home,L,0,1,Bournemouth,62,61250,Cristian Romero,4-3-3,4-2-3-1,Simon Hooper
+2025-09-13,17:30,4,Sat,Away,W,3,0,West Ham,64,62459,Cristian Romero,4-3-3,4-2-3-1,Jarred Gillett
+2025-09-20,15:00,5,Sat,Away,D,2,2,Brighton,64,31488,Cristian Romero,4-3-3,4-2-3-1,Chris Kavanagh
+2025-09-27,20:00,6,Sat,Home,D,1,1,Wolves,51,60537,Cristian Romero,4-2-3-1,4-2-3-1,Michael Salisbury
+2025-10-04,12:30,7,Sat,Away,W,2,1,Leeds United,44,36703,Cristian Romero,4-2-3-1,4-3-3,Thomas Bramall
+2025-10-19,14:00,8,Sun,Home,L,1,2,Aston Villa,53,61291,Micky van de Ven,4-2-3-1,4-2-3-1,Simon Hooper
+2025-10-26,16:30,9,Sun,Away,W,3,0,Everton,47,51781,Micky van de Ven,4-2-3-1,4-2-3-1,Craig Pawson
+2025-11-01,17:30,10,Sat,Home,L,0,1,Chelsea,48,61202,Micky van de Ven,4-2-3-1,4-2-3-1,Jarred Gillett
+2025-11-08,12:30,11,Sat,Home,D,2,2,Manchester Utd,55,61210,Cristian Romero,4-2-3-1,3-4-3,Samuel Barrott
+2025-11-23,16:30,12,Sun,Away,L,1,4,Arsenal,43,60345,Cristian Romero,3-4-3,4-2-3-1,Michael Oliver
+2025-11-29,20:00,13,Sat,Home,L,1,2,Fulham,63,60546,Micky van de Ven,4-2-2-2,4-2-3-1,Stuart Attwell
+2025-12-02,20:15,14,Tue,Away,D,2,2,Newcastle,47,52007,Cristian Romero,4-2-3-1,4-3-3,Thomas Bramall
+2025-12-06,15:00,15,Sat,Home,W,2,0,Brentford,53,60759,Cristian Romero,4-2-3-1,4-2-3-1,Robert Jones
+2025-12-14,14:00,16,Sun,Away,L,0,3,Nottingham,52,30579,Cristian Romero,4-2-3-1,4-2-3-1,Samuel Barrott
+2025-12-20,17:30,17,Sat,Home,L,1,2,Liverpool,35,61138,Cristian Romero,4-2-2-2,4-2-3-1,John Brooks
+2025-12-28,16:30,18,Sun,Away,W,1,0,Crystal Palace,38,25186,Micky van de Ven,4-2-3-1,3-4-3,Jarred Gillett
+2026-01-01,20:00,19,Thu,Away,D,0,0,Brentford,44,17141,Cristian Romero,4-3-3,4-3-3,Andy Madley
+2026-01-04,15:00,20,Sun,Home,D,1,1,Sunderland,49,60877,Cristian Romero,4-2-3-1,4-4-2,Stuart Attwell
+2026-01-07,19:30,21,Wed,Away,L,2,3,Bournemouth,58,11212,Cristian Romero,4-2-3-1,4-2-3-1,Darren England
+2026-01-17,15:00,22,Sat,Home,L,1,2,West Ham,62,60857,Cristian Romero,4-2-3-1,4-4-1-1,Jarred Gillett
+2026-01-24,15:00,23,Sat,Away,D,2,2,Burnley,63,21618,Cristian Romero,3-4-3,3-4-3,Peter Bankes
+2026-02-01,16:30,24,Sun,Home,D,2,2,Manchester City,39,61337,Cristian Romero,3-4-3,4-1-4-1,Robert Jones
+2026-02-07,12:30,25,Sat,Away,L,0,2,Manchester Utd,35,73985,Cristian Romero,4-3-3,4-2-3-1,Michael Oliver
+2026-02-10,19:30,26,Tue,Home,L,1,2,Newcastle,53,59773,Micky van de Ven,4-3-3,4-3-3,Anthony Taylor
+2026-02-22,16:30,27,Sun,Home,L,1,4,Arsenal,39,61439,Micky van de Ven,3-5-2,4-2-3-1,Peter Bankes
+2026-03-01,14:00,28,Sun,Away,L,1,2,Fulham,46,27439,Micky van de Ven,4-4-2,4-2-3-1,Thomas Bramall
+2026-03-05,20:00,29,Thu,Home,L,1,3,Crystal Palace,40,60213,Micky van de Ven,3-4-3,3-4-3,Andy Madley
+2026-03-15,16:30,30,Sun,Away,D,1,1,Liverpool,37,60248,Pedro Porro,4-4-2,4-2-3-1,Chris Kavanagh
+2026-03-22,14:15,31,Sun,Home,L,0,3,Nottingham,58,61519,Cristian Romero,4-4-2,4-2-3-1,Michael Oliver
+2026-04-12,14:00,32,Sun,Away,L,0,1,Sunderland,48,47010,Cristian Romero,4-2-3-1,4-2-3-1,Robert Jones
+2026-04-18,17:30,33,Sat,Home,D,2,2,Brighton,42,61167,Micky van de Ven,4-3-3,4-2-3-1,Stuart Attwell
+2026-04-25,15:00,34,Sat,Away,W,1,0,Wolves,59,31253,Micky van de Ven,4-2-3-1,3-4-3,Anthony Taylor
+2026-05-03,19:00,35,Sun,Away,W,2,1,Aston Villa,55,42767,Micky van de Ven,4-2-3-1,4-2-3-1,Samuel Barrott
+2026-05-11,20:00,36,Mon,Home,D,1,1,Leeds United,57,61048,Micky van de Ven,4-2-3-1,3-5-2,Jarred Gillett
+2026-05-19,20:15,37,Tue,Away,L,1,2,Chelsea,56,39463,Micky van de Ven,4-2-3-1,4-2-3-1,Stuart Attwell
+2026-05-24,16:00,38,Sun,Home,W,1,0,Everton,50,61876,Micky van de Ven,4-2-3-1,4-2-3-1,Michael Oliver

@@ -1,0 +1,39 @@
+Date,Time,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Opp Formation,Referee
+2025-08-16,15:00,1,Sat,Home,W,3,0,West Ham,37,46233,Granit Xhaka,4-3-3,3-4-1-2,Robert Jones
+2025-08-23,15:00,2,Sat,Away,L,0,2,Burnley,57,21285,Granit Xhaka,4-3-3,4-2-3-1,Michael Salisbury
+2025-08-30,15:00,3,Sat,Home,W,2,1,Brentford,54,46267,Granit Xhaka,4-3-3,4-2-3-1,Anthony Taylor
+2025-09-13,15:00,4,Sat,Away,D,0,0,Crystal Palace,44,25154,Granit Xhaka,4-3-3,3-4-3,Thomas Bramall
+2025-09-21,14:00,5,Sun,Home,D,1,1,Aston Villa,29,46261,Granit Xhaka,4-3-3,4-2-3-1,Samuel Barrott
+2025-09-27,17:30,6,Sat,Away,W,1,0,Nottingham,35,30226,Granit Xhaka,4-2-3-1,4-2-3-1,Tony Harrington
+2025-10-04,15:00,7,Sat,Away,L,0,2,Manchester Utd,49,74004,Granit Xhaka,4-2-3-1,3-4-3,Stuart Attwell
+2025-10-18,15:00,8,Sat,Home,W,2,0,Wolves,41,46578,Granit Xhaka,4-2-3-1,4-3-3,Robert Jones
+2025-10-25,15:00,9,Sat,Away,W,2,1,Chelsea,31,39489,Granit Xhaka,5-4-1,4-2-3-1,Andy Madley
+2025-11-03,20:00,10,Mon,Home,D,1,1,Everton,61,41476,Granit Xhaka,3-4-3,4-2-3-1,Thomas Bramall
+2025-11-08,17:30,11,Sat,Home,D,2,2,Arsenal,35,46799,Granit Xhaka,5-4-1,4-2-3-1,Craig Pawson
+2025-11-22,15:00,12,Sat,Away,L,0,1,Fulham,43,27560,Granit Xhaka,5-4-1,4-2-3-1,Darren England
+2025-11-29,15:00,13,Sat,Home,W,3,2,Bournemouth,43,46973,Granit Xhaka,4-2-3-1,4-2-3-1,Tim Robinson
+2025-12-03,20:15,14,Wed,Away,D,1,1,Liverpool,32,60146,Granit Xhaka,4-4-2,4-2-3-1,Stuart Attwell
+2025-12-06,15:00,15,Sat,Away,L,0,3,Manchester City,37,52436,Granit Xhaka,5-4-1,4-3-2-1,Andy Madley
+2025-12-14,14:00,16,Sun,Home,W,1,0,Newcastle,46,47158,Granit Xhaka,4-2-3-1,4-3-3,Peter Bankes
+2025-12-20,15:00,17,Sat,Away,D,0,0,Brighton,44,31426,Granit Xhaka,4-2-3-1,4-2-3-1,Darren England
+2025-12-28,14:00,18,Sun,Home,D,1,1,Leeds United,43,46675,Granit Xhaka,4-2-3-1,3-5-2,Tony Harrington
+2026-01-01,20:00,19,Thu,Home,D,0,0,Manchester City,32,46920,Granit Xhaka,4-2-3-1,4-3-2-1,Jarred Gillett
+2026-01-04,15:00,20,Sun,Away,D,1,1,Tottenham,51,60877,Granit Xhaka,4-4-2,4-2-3-1,Stuart Attwell
+2026-01-07,19:30,21,Wed,Away,L,0,3,Brentford,49,17016,Granit Xhaka,4-2-3-1,4-2-3-1,Matt Donohue
+2026-01-17,15:00,22,Sat,Home,W,2,1,Crystal Palace,59,47257,Granit Xhaka,4-2-3-1,3-4-3,Robert Jones
+2026-01-24,12:30,23,Sat,Away,L,1,3,West Ham,53,62456,Trai Hume,4-4-2,4-4-1-1,Thomas Bramall
+2026-02-02,20:00,24,Mon,Home,W,3,0,Burnley,44,46370,Trai Hume,5-4-1,3-4-3,Paul Tierney
+2026-02-07,15:00,25,Sat,Away,L,0,3,Arsenal,51,60312,Trai Hume,4-2-3-1,4-3-3,Samuel Barrott
+2026-02-11,20:15,26,Wed,Home,L,0,1,Liverpool,44,47159,Trai Hume,4-2-3-1,4-2-3-1,Chris Kavanagh
+2026-02-22,14:00,27,Sun,Home,L,1,3,Fulham,53,47222,Trai Hume,4-1-4-1,4-2-3-1,Craig Pawson
+2026-02-28,12:30,28,Sat,Away,D,1,1,Bournemouth,38,11240,Granit Xhaka,4-2-3-1,4-2-3-1,Jarred Gillett
+2026-03-03,19:30,29,Tue,Away,W,1,0,Leeds United,30,36713,Luke O'Nien,4-2-3-1,4-5-1,Stuart Attwell
+2026-03-14,15:00,30,Sat,Home,L,0,1,Brighton,47,45497,Granit Xhaka,4-1-4-1,4-2-3-1,Thomas Kirk
+2026-03-22,12:00,31,Sun,Away,W,2,1,Newcastle,40,52253,Granit Xhaka,4-1-4-1,4-2-3-1,Anthony Taylor
+2026-04-12,14:00,32,Sun,Home,W,1,0,Tottenham,53,47010,Granit Xhaka,4-2-3-1,4-2-3-1,Robert Jones
+2026-04-19,14:00,33,Sun,Away,L,3,4,Aston Villa,50,42599,Granit Xhaka,4-2-3-1,4-2-3-1,Samuel Barrott
+2026-04-24,20:00,34,Fri,Home,L,0,5,Nottingham,61,47132,Granit Xhaka,4-2-3-1,4-4-2,Darren England
+2026-05-02,15:00,35,Sat,Away,D,1,1,Wolves,42,29632,Granit Xhaka,4-2-3-1,3-4-3,Paul Tierney
+2026-05-09,15:00,36,Sat,Home,D,0,0,Manchester Utd,51,47233,Granit Xhaka,4-2-3-1,4-2-3-1,Stuart Attwell
+2026-05-17,15:00,37,Sun,Away,W,3,1,Everton,52,52590,Granit Xhaka,4-2-3-1,4-2-3-1,John Brooks
+2026-05-24,16:00,38,Sun,Home,W,2,1,Chelsea,45,47155,Granit Xhaka,4-2-3-1,3-4-1-2,Chris Kavanagh

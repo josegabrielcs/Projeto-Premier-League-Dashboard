@@ -1,0 +1,39 @@
+Date,Time,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Opp Formation,Referee
+2025-08-15,20:00,1,Fri,Away,L,2,4,Liverpool,39,60315,Adam Smith,4-1-4-1,4-2-3-1,Anthony Taylor
+2025-08-23,15:00,2,Sat,Home,W,1,0,Wolves,59,11070,Adam Smith,4-1-4-1,3-4-3,Thomas Bramall
+2025-08-30,15:00,3,Sat,Away,W,1,0,Tottenham,38,61250,Adam Smith,4-2-3-1,4-3-3,Simon Hooper
+2025-09-13,15:00,4,Sat,Home,W,2,1,Brighton,52,11167,David Brooks,4-2-3-1,4-2-3-1,Peter Bankes
+2025-09-21,14:00,5,Sun,Home,D,0,0,Newcastle,56,11212,David Brooks,4-2-3-1,3-4-3,Robert Jones
+2025-09-27,15:00,6,Sat,Away,D,2,2,Leeds United,59,36574,Ryan Christie,4-2-3-1,4-3-3,Michael Oliver
+2025-10-03,20:00,7,Fri,Home,W,3,1,Fulham,53,11165,David Brooks,4-2-3-1,3-4-3,Simon Hooper
+2025-10-18,15:00,8,Sat,Away,D,3,3,Crystal Palace,48,25125,Marcus Tavernier,4-2-3-1,3-4-3,Jarred Gillett
+2025-10-26,14:00,9,Sun,Home,W,2,0,Nottingham,52,11204,Marcus Tavernier,4-2-3-1,4-2-3-1,Samuel Barrott
+2025-11-02,16:30,10,Sun,Away,L,1,3,Manchester City,52,52387,David Brooks,4-2-3-1,4-3-2-1,Anthony Taylor
+2025-11-09,14:00,11,Sun,Away,L,0,4,Aston Villa,48,40792,Adam Smith,4-2-3-1,4-4-2,John Brooks
+2025-11-22,15:00,12,Sat,Home,D,2,2,West Ham,76,11216,Lewis Cook,4-2-3-1,3-4-3,Thomas Bramall
+2025-11-29,15:00,13,Sat,Away,L,2,3,Sunderland,57,46973,Adam Smith,4-2-3-1,4-2-3-1,Tim Robinson
+2025-12-02,19:30,14,Tue,Home,L,0,1,Everton,55,11161,Antoine Semenyo,4-2-3-1,4-2-3-1,Michael Salisbury
+2025-12-06,15:00,15,Sat,Home,D,0,0,Chelsea,39,11240,Adam Smith,4-2-3-1,4-2-3-1,Michael Oliver
+2025-12-15,20:00,16,Mon,Away,D,4,4,Manchester Utd,44,73951,Adam Smith,4-2-3-1,3-4-3,Simon Hooper
+2025-12-20,15:00,17,Sat,Home,D,1,1,Burnley,65,10762,Lewis Cook,4-2-3-1,4-4-2,Chris Kavanagh
+2025-12-27,15:00,18,Sat,Away,L,1,4,Brentford,51,17152,Adam Smith,4-2-3-1,4-2-3-1,Peter Bankes
+2025-12-30,19:30,19,Tue,Away,D,2,2,Chelsea,33,39765,David Brooks,4-2-3-1,4-2-3-1,Samuel Barrott
+2026-01-03,17:30,20,Sat,Home,L,2,3,Arsenal,43,11240,David Brooks,4-2-3-1,4-3-3,Chris Kavanagh
+2026-01-07,19:30,21,Wed,Home,W,3,2,Tottenham,42,11212,Lewis Cook,4-2-3-1,4-2-3-1,Darren England
+2026-01-19,20:00,22,Mon,Away,D,1,1,Brighton,34,30172,Lewis Cook,4-2-3-1,4-2-3-1,Paul Tierney
+2026-01-24,17:30,23,Sat,Home,W,3,2,Liverpool,33,11260,Adam Smith,4-2-3-1,4-2-2-2,Michael Salisbury
+2026-01-31,15:00,24,Sat,Away,W,2,0,Wolves,48,30161,Adam Smith,4-2-3-1,3-5-2,Michael Oliver
+2026-02-07,15:00,25,Sat,Home,D,1,1,Aston Villa,53,11248,Lewis Cook,4-2-3-1,4-2-3-1,Anthony Taylor
+2026-02-10,19:30,26,Tue,Away,W,2,1,Everton,47,51793,Ryan Christie,4-2-3-1,4-2-3-1,Andy Madley
+2026-02-21,17:30,27,Sat,Away,D,0,0,West Ham,58,62437,Marcos Senesi,4-2-3-1,4-2-3-1,Samuel Barrott
+2026-02-28,12:30,28,Sat,Home,D,1,1,Sunderland,62,11240,David Brooks,4-2-3-1,4-2-3-1,Jarred Gillett
+2026-03-03,19:30,29,Tue,Home,D,0,0,Brentford,48,11108,Ryan Christie,4-2-3-1,4-2-3-1,Craig Pawson
+2026-03-14,15:00,30,Sat,Away,D,0,0,Burnley,62,20281,Adam Smith,4-2-3-1,4-2-3-1,Peter Bankes
+2026-03-20,20:00,31,Fri,Home,D,2,2,Manchester Utd,55,11250,Ryan Christie,4-2-3-1,4-2-3-1,Stuart Attwell
+2026-04-11,12:30,32,Sat,Away,W,2,1,Arsenal,47,60210,Ryan Christie,4-2-3-1,4-2-3-1,Michael Oliver
+2026-04-18,15:00,33,Sat,Away,W,2,1,Newcastle,46,52109,Ryan Christie,4-2-3-1,4-3-3,Thomas Bramall
+2026-04-22,20:00,34,Wed,Home,D,2,2,Leeds United,60,11226,David Brooks,4-2-3-1,3-4-3,Michael Salisbury
+2026-05-03,14:00,35,Sun,Home,W,3,0,Crystal Palace,49,11122,Marcus Tavernier,4-2-3-1,3-4-3,Robert Jones
+2026-05-09,15:00,36,Sat,Away,W,1,0,Fulham,40,27626,Adam Smith,4-2-3-1,4-2-3-1,Andy Madley
+2026-05-19,19:30,37,Tue,Home,D,1,1,Manchester City,45,11218,Adam Smith,4-2-3-1,4-1-4-1,Anthony Taylor
+2026-05-24,16:00,38,Sun,Away,D,1,1,Nottingham,55,30741,Adam Smith,4-2-3-1,4-4-2,Craig Pawson

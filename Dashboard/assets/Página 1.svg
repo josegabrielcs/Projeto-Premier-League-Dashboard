@@ -1,0 +1,27 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fundo Geral Off-white -->
+  <rect width="1280" height="720" fill="#F4F5F7" />
+  
+  <!-- Menu Lateral -->
+  <rect x="0" y="0" width="80" height="720" fill="#FFFFFF" />
+  
+  <!-- Topo: 3 Cartões de KPI perfeitamente alinhados -->
+  <!-- KPI 1 (Alinhado à esquerda) -->
+  <rect x="100" y="20" width="373" height="110" rx="15" fill="#FFFFFF" />
+  <!-- KPI 2 (Centro-esquerda) -->
+  <rect x="493" y="20" width="373" height="110" rx="15" fill="#FFFFFF" />
+  <!-- KPI 3 (Alinhado à direita com os gráficos menores) -->
+  <rect x="886" y="20" width="373" height="110" rx="15" fill="#FFFFFF" />
+  
+  <!-- Linha do Meio -->
+  <!-- Gráfico de Linhas (Média de Gols) -->
+  <rect x="100" y="150" width="766" height="265" rx="15" fill="#FFFFFF" />
+  <!-- Gráfico de Rosca (Mandante vs Visitante) -->
+  <rect x="886" y="150" width="373" height="265" rx="15" fill="#FFFFFF" />
+  
+  <!-- Linha de Baixo -->
+  <!-- Gráfico de Dispersão (Participações por Minutos) -->
+  <rect x="100" y="435" width="766" height="265" rx="15" fill="#FFFFFF" />
+  <!-- Gráfico de Barras (Top 5 Participações) -->
+  <rect x="886" y="435" width="373" height="265" rx="15" fill="#FFFFFF" />
+</svg>

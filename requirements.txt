@@ -1,0 +1,8 @@
+# Bibliotecas usadas nos scripts de limpeza, modelagem e carga
+pandas
+sqlalchemy
+psycopg2-binary
+python-dotenv
+
+# Necessário apenas para abrir os notebooks de exploração (Scripts/*.ipynb)
+jupyter

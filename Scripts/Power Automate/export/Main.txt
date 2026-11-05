@@ -1,0 +1,13 @@
+
+FUNCTION Main GLOBAL
+    Folder.GetSpecialFolder SpecialFolder: Folder.SpecialFolder.Personal SpecialFolderPath=> SpecialFolder
+    SET PastaProjeto TO $'''%SpecialFolder%\\Projeto PL Dashboard'''
+    Excel.LaunchExcel.LaunchAndOpenUnderExistingProcess Path: $'''%PastaProjeto%\\Scripts\\Power Automate\\Controle_Times.xlsx''' Visible: True ReadOnly: False UseMachineLocale: False Instance=> ExcelInstance
+    Excel.ReadFromExcel.ReadAllCells Instance: ExcelInstance GetCellContentsMode: Excel.GetCellContentsMode.TypedValues FirstLineIsHeader: True RangeValue=> ExcelData
+    Excel.CloseExcel.Close Instance: ExcelInstance
+    LOOP FOREACH CurrentItem IN ExcelData
+        CALL Extrair_Standard CurrentItem: CurrentItem PastaProjeto: PastaProjeto
+        CALL Extrair_Matches CurrentItem: CurrentItem PastaProjeto: PastaProjeto
+    END
+    Display.ShowMessageDialog.ShowMessage Title: $'''Extração Completa!''' Icon: Display.Icon.None Buttons: Display.Buttons.OK DefaultButton: Display.DefaultButton.Button1 IsTopMost: False ButtonPressed=> ButtonPressed
+END FUNCTION
