@@ -1,4 +1,4 @@
-# ⚽ Premier League 2025-26 · Pipeline de Dados e Dashboard
+# Premier League 2025-26 · Pipeline de Dados e Dashboard
 
 ![Demonstração do dashboard](Docs/demo.gif)
 
