@@ -39,6 +39,18 @@ Os scripts Python rodam a partir da raiz do projeto, e a ordem importa: a modela
 
 As credenciais do banco ficam em um arquivo `.env` fora do repositório, e as bibliotecas usadas estão no `requirements.txt`.
 
+### Organização em camadas (arquitetura medalhão)
+
+Os dados seguem a lógica da arquitetura medalhão, em que cada camada tem um nível maior de tratamento do que a anterior:
+
+| Camada | Pasta | Conteúdo |
+|---|---|---|
+| 🥉 **Bronze** | `Data/raw` | Dados brutos, exatamente como foram exportados do FBref |
+| 🥈 **Prata** | `Data/clean` | Dados limpos e padronizados: tipos corrigidos, colunas renomeadas, um arquivo por time |
+| 🥇 **Ouro** | `Database` + PostgreSQL | Modelo dimensional (dimensões e fatos), validado e pronto para o Power BI |
+
+Manter a camada bronze intacta permite refazer todo o tratamento sem precisar coletar os dados de novo.
+
 ---
 
 ## Tecnologias
@@ -134,9 +146,9 @@ Projeto PL Dashboard/
 │   ├── PL dashboard.pbix
 │   └── assets/                  ← logo, fundos das páginas e tema
 ├── Data/
-│   ├── raw/                     ← dados coletados do FBref
-│   └── clean/                   ← dados após a limpeza
-├── Database/                    ← tabelas dimensão e fato em CSV
+│   ├── raw/                     ← 🥉 bronze: dados coletados do FBref
+│   └── clean/                   ← 🥈 prata: dados após a limpeza
+├── Database/                    ← 🥇 ouro: tabelas dimensão e fato em CSV
 ├── Docs/                        ← imagens, GIF e PDF do dashboard
 ├── Scripts/
 │   ├── Power Automate/          ← fluxos de coleta (com README próprio)
