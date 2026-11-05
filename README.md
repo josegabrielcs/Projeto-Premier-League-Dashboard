@@ -33,14 +33,18 @@ O tema escolhido foi a **temporada 2025-26 da Premier League**, com dados públi
 | **3. Modelagem** | Criação das tabelas dimensão e fato com chaves substitutas (`squad_id`, `player_id`) | `Scripts/build_database_*.py` |
 | **4. Carga** | Criação do esquema e carga no PostgreSQL | `Scripts/sql/DDL.sql`, `Scripts/load_to_postgres.py` |
 | **5. Validação** | Testes de qualidade em SQL (contagens, duplicidades, consistência de placares e gols) | `Scripts/sql/data_quality_tests.sql` |
-| **6. Visualização** | Dashboard conectado ao PostgreSQL | `Dashboard/PL dashboard.pbix` |
+| **6. Visualização** | Dashboard conectado ao PostgreSQL em modo Importação (o `.pbix` já contém os dados) | `Dashboard/PL dashboard.pbix` |
+
+Os scripts Python rodam a partir da raiz do projeto, e a ordem importa: a modelagem começa pela classificação, porque é ela que gera a dimensão de times (`dim_squad`) usada pelas outras tabelas. Antes de carregar, o `load_to_postgres.py` esvazia as tabelas, então o pipeline pode ser executado de novo do zero sem duplicar dados. Esse teste foi feito apagando tudo, menos os dados brutos, e reconstruindo o banco e o dashboard com os mesmos resultados.
+
+As credenciais do banco ficam em um arquivo `.env` fora do repositório, e as bibliotecas usadas estão no `requirements.txt`.
 
 ---
 
 ## Tecnologias
 
 - **Power Automate Desktop:** coleta automatizada (RPA)
-- **Python:** pandas, SQLAlchemy, psycopg2, python-dotenv
+- **Python:** pandas, SQLAlchemy, psycopg2 e python-dotenv (credenciais fora do código)
 - **Jupyter Notebook:** exploração inicial da limpeza
 - **PostgreSQL:** armazenamento e testes de qualidade em SQL
 - **Power BI:** modelagem, DAX e visualização
@@ -143,7 +147,7 @@ Projeto PL Dashboard/
 │   ├── limpezaFull_*.py         ← scripts de limpeza
 │   ├── build_database_*.py      ← scripts de modelagem
 │   └── load_to_postgres.py
-├── requirements.txt
+├── requirements.txt             ← dependências Python
 └── README.md
 ```
 
@@ -169,4 +173,4 @@ Dados de [FBref.com](https://fbref.com) (Sports Reference), temporada 2025-26 da
 
 **José Gabriel Carreiro Santana**
 
-<!-- Adicione aqui seus links: LinkedIn, GitHub, e-mail -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-josegabrielcs-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josegabrielcs/)
